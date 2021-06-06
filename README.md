@@ -2,7 +2,7 @@
 <!--![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark) -->
 
 
-I am Jayasurya, a Robotics/Software Engineer. I'm a graduate student researcher in Robotics/ AI at Arizona State Universoty. My areas of interests includes
+I am Jayasurya, a Robotics/Software Engineer. I'm a graduate student researcher in Robotics at Arizona State University. My areas of interests includes
 - Reinforcement Learning
 - Visual Linguistics for Robotic Applications
 - Perception/Computer Vision
@@ -15,7 +15,13 @@ I am currently working as a Robotics Software Developer at [Digital Dream Labs L
 
 You can also find me at LinkedIn:
 <a href="https://linkedin.com/in/jayasuryasm">
-  <img alt="Jayasurya" src="https://img.shields.io/badge/-jayasuryasm-informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a" />
+  <img alt="Jayasurya" src="https://img.shields.io/badge/-LinkedIn-informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a" />
+</a> 
+<a href="https://scholar.google.com/citations?user=MAPoV9YAAAAJ&hl=en">
+  <img alt="Jayasurya" src="https://img.shields.io/badge/Google_Scholar-informational?style=social&logo=google-scholar" />
+</a> 
+<a href="https://twitter.com/jayasur82833784">
+  <img alt="Jayasurya" src="https://img.shields.io/badge/Twitter-informational?style=social&logo=twitter" />
 </a> 
 
 ## 🔧 Technologies & Tools
@@ -35,7 +41,7 @@ You can also find me at LinkedIn:
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=matlab&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
