@@ -2,7 +2,15 @@
 <!--![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark) -->
 
 
-I am Jayasurya, a Robotics/Software Engineer. I'm a graduate student researcher in Robotics at Arizona State University. My areas of interests includes
+Hi there, I am Jayasurya. Welcome to my page.
+
+I am a Robotics and Autonomous System (AI) graduate from Arizona State University. I am Univeristy Gold Medalist fir my undergraduate program from Anna University, Chennai India.
+
+I currently work as a Software Engineer at [Miso Robotics, Inc.](https://misorobotics.com/).  I am responsible for the development of full-stack robotics applications. My role extends to critical areas such as data engineering, planning, and scheduling, where I design and implement modularized software solutions for a range of customer-facing products. I actively contribute to the innovation and enhancement of our robotic systems. I collaborate with a diverse team to ensure the seamless integration of software components, resulting in cutting-edge, efficient, and customer-oriented products that drive the company's mission in the field of robotics and automation.
+
+My past internship experience includes working as a Robotics Software Developer at [Digital Dream Labs LLC.](https://www.digitaldreamlabs.com/) where I worked on [Vector](https://www.digitaldreamlabs.com/pages/meet-vector) and [Butter Robot](https://thebutterrobot.com/) on the aspects of Robot Navigation and setting up a Data pipeline by creating interfaces and mechanisms for the flow and access of resources from Cloud.
+
+My areas of interests includes
 - Reinforcement Learning
 - Visual Linguistics for Robotic Applications
 - Perception/Computer Vision
@@ -10,8 +18,6 @@ I am Jayasurya, a Robotics/Software Engineer. I'm a graduate student researcher 
 - Deep Learning
 - Motion, Planning and Control
 - Embedded Systems Design and Programming
-
-I am currently working as a Robotics Software Developer at [Digital Dream Labs LLC.](https://www.digitaldreamlabs.com/) where I worked on [Vector](https://www.digitaldreamlabs.com/pages/meet-vector) and [Butter Robot](https://thebutterrobot.com/) on the aspects of Robot Navigation and setting up a Data pipeline by creating interfaces and mechanisms for the flow and access of resources from Cloud.
 
 You can also find me at LinkedIn:
 <a href="https://linkedin.com/in/jayasuryasm">
@@ -53,11 +59,9 @@ You can also find me at LinkedIn:
 
 
 ## 📝 Statistics:
+
 <a href="https://www.linkedin.com/in/jayasuryasm">
-  <img alt="AmanVirmani" src="https://github-readme-stats.vercel.app/api?username=imjaya&show_icons=true&theme=radical" />
-</a> 
-<a href="https://www.linkedin.com/in/jayasuryasm">
-  <img alt="AmanVirmani" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjaya&layout=compact&hide=jupyter%20notebook,matlab&theme=radical" />
+  <img alt="JayasuryaMahendran" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjaya&layout=compact&hide=jupyter%20notebook,matlab&theme=radical" />
 </a> 
 
 
