@@ -2,7 +2,7 @@
 <!--![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark) -->
 
 
-Hi there, I am Jayasurya. Welcome to my page.
+I am Jayasurya. Welcome to my page.
 
 I am a Robotics and Autonomous System (AI) graduate from Arizona State University. I am Univeristy Gold Medalist fir my undergraduate program from Anna University, Chennai India.
 
